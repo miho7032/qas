@@ -1,0 +1,26 @@
+{
+	"statusCd": "00",
+	"visitDetailList": [
+		{
+			"visiReqNo": "VR2022112500961",
+			"visiUsrNo": "V0026469",
+			"carxFull": "95서0578",
+			"carxDriv": "양정모",
+			"trnsCorp": "null",
+			"ordrVend": "null",
+			"itemName": "null",
+			"scalPart": "VP05",
+			"scalPartNm": "공사",
+			"deptName": "미래기술.회절광학소재PJT",
+			"hpNo": "01094101145",
+			"gateNo": "청주",
+			"staDate": "20221128",
+			"endDate": "20221128",
+			"measureYn": "N",
+			"wasteProcSeq": "SW22652472",
+			"agreeYn": "Y",
+			"eduYn": "Y",
+			"bigoRemk": "null"
+		}
+	]
+}
